@@ -1,0 +1,8 @@
+.container{
+  display: flex;
+}
+
+.right{
+  padding: 300px;
+  font-size: xx-large;
+}
